@@ -1,4 +1,5 @@
-# Crypto, Geopolitics & Financial Market Analysis
+# Crypto Market Reaction to Geopolitical Conflicts
+### A FinTech Data Analysis Project
 
 ## Project Overview
 This project analyzes how major geopolitical conflicts influence global financial markets, with a particular focus on Bitcoin and its relationship with traditional safe-haven assets.
