@@ -1,61 +1,33 @@
-# Crypto Market Reaction to Geopolitical Conflicts
-### A FinTech Data Analysis Project
+# Crypto Market Reactions to Global Geopolitical Conflicts
 
-## Project Overview
-This project analyzes how major geopolitical conflicts influence global financial markets, with a particular focus on Bitcoin and its relationship with traditional safe-haven assets.
+## Overview
+This project analyzes how global geopolitical events influence cryptocurrency market behavior. As financial systems become increasingly interconnected, understanding how crises impact digital assets is critical for investors, analysts, and policymakers.
 
-Assets analyzed:
-- Bitcoin
-- S&P 500
-- Gold
-- Oil
+## Problem Statement
+Global conflicts often disrupt traditional financial markets. However, the response of decentralized financial systems such as cryptocurrency remains less understood. This project explores how major geopolitical events affect crypto price movements, volatility, and trading patterns.
 
-The analysis explores price reactions, volatility spikes, and cross-market correlations during periods of geopolitical instability.
+## Objective
+- Analyze crypto market trends during geopolitical crises
+- Identify patterns in price volatility
+- Understand investor behavior in uncertain global conditions
 
----
+## Tools & Technologies
+- Python
+- Pandas
+- Matplotlib
 
-## Key Questions
-- Does Bitcoin behave like a safe-haven asset during geopolitical crises?
-- How does Bitcoin volatility compare with traditional markets?
-- Are crypto and traditional markets correlated during global shocks?
+## Key Insights
+- Increased volatility during conflict periods  
+- Short-term price spikes followed by corrections  
+- Strong correlation between global uncertainty and trading activity  
 
----
+## Why This Matters
+This analysis contributes to understanding how emerging financial systems react under global stress, with implications for financial stability, risk management, and fintech innovation.
 
-## Dataset
-The dataset includes daily price data for:
-- Bitcoin
-- S&P 500
-- Gold
-- Oil
-
-Source: Yahoo Finance historical market data.
-
----
-
-## Visualizations
-
-### Bitcoin Price Reaction to Geopolitical Events
-![Bitcoin Reaction](charts/bitcoin_price_reaction.png)
-
-### Bitcoin Volatility During Conflict
-![Bitcoin Volatility](charts/bitcoin_volatility.png)
-
-### Global Market Comparison
-![Market Comparison](charts/global_market_comparison.png)
-
-### Asset Correlation Heatmap
-![Correlation Heatmap](charts/asset_correlation_heatmap.png)
-
----
-
-## Key Findings
-
-- Bitcoin experienced **sharp volatility spikes** during geopolitical announcements.
-- Gold maintained **more stable movement**, reinforcing its safe-haven reputation.
-- Correlation between crypto and traditional markets **increased during crisis periods**.
-- Market reactions stabilized after the initial geopolitical shock.
-
----
+## Future Work
+- Expand dataset across more geopolitical events  
+- Incorporate machine learning for predictive analysis  
+- Explore cross-market correlations (stocks, commodities, crypto)
 
 ## Tools Used
 - Python
